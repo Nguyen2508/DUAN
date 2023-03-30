@@ -3,8 +3,8 @@ export const data = {
         {
             "id": 1,
             "name": "iPhone 12 Pro Max 128GB",
-            "price": 31990000,
-            "salePrice": 30000000,
+            "price": 319900000,
+            "salePrice": 300000000,
             "type": "iphone",
             "image": "https://cdn.tgdd.vn/Products/Images/42/213033/iphone-12-pro-max-xanh-duong-new-600x600-600x600.jpg",
             "rating": 5,
@@ -19,9 +19,9 @@ export const data = {
         },
         {
             "id": 2,
-            "name": "iPhone XR 128GB",
+            "name": "iPhone XR 256GB",
             "price": 12990000,
-            "salePrice": 11000000,
+            "salePrice": 110000000,
             "type": "iphone",
             "image": "https://cdn.tgdd.vn/Products/Images/42/191483/iphone-xr-128gb-600x600.jpg",
             "rating": 5,
@@ -37,8 +37,8 @@ export const data = {
         {
             "id": 3,
             "name": "Samsung Galaxy S21 Ultra 5G 128GB",
-            "price": 30990000,
-            "salePrice": 29000000,
+            "price": 309900000,
+            "salePrice": 290000000,
             "type": "samsung",
             "image": "https://cdn.tgdd.vn/Products/Images/42/226316/samsung-galaxy-s21-ultra-bac-600x600-1-600x600.jpg",
             "rating": 5,
@@ -47,15 +47,15 @@ export const data = {
                 {
                     "name": "Triệu",
                     "star": 5,
-                    "comment": "ngon",
+                    "comment": "ngon b? r?",
                 }
             ]
         },
         {
             "id": 4,
             "name": "Samsung Galaxy Note 10+",
-            "price": 16990000,
-            "salePrice": 15000000,
+            "price": 169900000,
+            "salePrice": 150000000,
             "type": "samsung",
             "image": "https://cdn.tgdd.vn/Products/Images/42/206176/samsung-galaxy-note-10-plus-silver-new-600x600.jpg",
             "rating": 5,
